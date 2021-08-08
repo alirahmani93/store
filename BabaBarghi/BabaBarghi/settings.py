@@ -14,11 +14,8 @@ from pathlib import Path
 from dotenv import load_dotenv, find_dotenv
 
 env_file = Path(find_dotenv(usecwd=True))
-print(env_file)
 
 load_dotenv(verbose=True, dotenv_path=env_file)
-
-print(os.environ.get("DB_NAME", ""))
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
