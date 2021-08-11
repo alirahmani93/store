@@ -29,7 +29,7 @@ class Brand(models.Model):
     email = models.EmailField(blank=True, null=True, verbose_name="ایمیل دفتر مرکزی")
 
     def __str__(self):
-        return self.name, self.phone_number, self.email, self.country, self.city
+        return f"{self.name} , {self.phone_number}, {self.email}, {self.country}, {self.city}"
 
 
 class Price(models.Model):
