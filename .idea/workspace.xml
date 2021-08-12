@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92f80bcc-3b32-4eed-9655-158c575ea86a" name="Changes" comment="">
+    <list default="true" id="92f80bcc-3b32-4eed-9655-158c575ea86a" name="Changes" comment="fixBug: Brand model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/migrations/0002_auto_20210808_2118.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/migrations/0003_alter_price_price.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/migrations/0004_auto_20210809_1958.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/migrations/0005_auto_20210809_2011.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/migrations/0006_auto_20210809_2013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/migrations/0007_remove_brand_country.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/BabaBarghi/product/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +65,24 @@
       <workItem from="1628422317584" duration="515000" />
       <workItem from="1628596598798" duration="937000" />
       <workItem from="1628623648552" duration="1257000" />
-      <workItem from="1628666647907" duration="525000" />
+      <workItem from="1628666647907" duration="695000" />
+      <workItem from="1628753043078" duration="271000" />
     </task>
+    <task id="LOCAL-00001" summary="fixBug: Brand model">
+      <created>1628667208426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628667208426</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixBug: Brand model">
+      <created>1628667271669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628667271669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +99,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixBug: Brand model" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixBug: Brand model" />
   </component>
 </project>
