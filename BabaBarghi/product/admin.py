@@ -30,3 +30,5 @@ class PriceAdmin(admin.ModelAdmin):
 # @admin.register(Category)
 # class CategoryAdmin(admin.ModelAdmin):
 #     inlines = [ProductInline]
+
+#### Use ""modelAdmin.fiedset"" in your admin #########

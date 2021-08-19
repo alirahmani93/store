@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92f80bcc-3b32-4eed-9655-158c575ea86a" name="Changes" comment="fixBug: Brand model">
+    <list default="true" id="92f80bcc-3b32-4eed-9655-158c575ea86a" name="Changes" comment="in commit be dard nemikhore va baiad pak beshe2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BabaBarghi/cart/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/BabaBarghi/cart/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/BabaBarghi/product/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/BabaBarghi/product/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +28,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="Store" type="Python.DjangoServer" factoryName="Django server">
@@ -67,6 +72,12 @@
       <workItem from="1628623648552" duration="1257000" />
       <workItem from="1628666647907" duration="695000" />
       <workItem from="1628753043078" duration="271000" />
+      <workItem from="1628755156525" duration="3400000" />
+      <workItem from="1629111620209" duration="481000" />
+      <workItem from="1629112146252" duration="5562000" />
+      <workItem from="1629131568890" duration="1203000" />
+      <workItem from="1629362079192" duration="1187000" />
+      <workItem from="1629389733722" duration="1407000" />
     </task>
     <task id="LOCAL-00001" summary="fixBug: Brand model">
       <created>1628667208426</created>
