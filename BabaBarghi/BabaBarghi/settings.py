@@ -48,7 +48,7 @@ INSTALLED_APPS = [
 
     # "django_extensions",
 
-    "product", "cart",
+    "product", "cart","payment",
     # "user",
 ]
 

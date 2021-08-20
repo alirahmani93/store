@@ -7,6 +7,7 @@ from django.core.validators import validate_image_file_extension, DecimalValidat
 
 
 # Create your models here.
+# User = get_user_model()
 
 class Category(models.Model):
     title = models.CharField(max_length=50, verbose_name="دسته")
@@ -56,7 +57,14 @@ class Price(models.Model):
         return f"{self.product}, {self.price}"
 
 
-class Picture(models.Model):
+class Media(models.Model):
+    picture = models.ImageField(upload_to="Project_Pictures", max_length=100, null=True, blank=True, default=None)
+                                    # width_field=100, height_field=160, validators=[validate_path])
+    image_product = models.ForeignKey("Product", on_delete=models.CASCADE)
+    discription = models.CharField(max_length=100, default=None)
+    video_description = models.FileField(upload_to='hand_product_video/', null=True, blank=True)#, validators=[file_size_validator])
+    slug = models.SlugField(unique=True, null=True, blank=True)
+
     @property
     def validate_path(self):
         """
@@ -77,10 +85,6 @@ class Picture(models.Model):
                                         width_field=100, height_field=160, max_length=100)
             return picture
 
-    picture = models.ImageField(upload_to="Product", max_length=100, null=True, blank=True, default=None)
-                                # width_field=100, height_field=160, validators=[validate_path])
-
-    discription = models.CharField(max_length=100,default= None)
 
     def __str__(self):
         return self.discription
