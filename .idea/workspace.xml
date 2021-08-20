@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92f80bcc-3b32-4eed-9655-158c575ea86a" name="Changes" comment="" />
+    <list default="true" id="92f80bcc-3b32-4eed-9655-158c575ea86a" name="Changes" comment="in commit be dard nemikhore va baiad pak beshe2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="Store" type="Python.DjangoServer" factoryName="Django server">
@@ -61,10 +63,52 @@
       <workItem from="1628244269132" duration="2824000" />
       <workItem from="1628273995443" duration="37000" />
       <workItem from="1628422317584" duration="515000" />
+      <workItem from="1628596598798" duration="937000" />
+      <workItem from="1628623648552" duration="1257000" />
+      <workItem from="1628666647907" duration="695000" />
+      <workItem from="1628753043078" duration="271000" />
+      <workItem from="1628755156525" duration="3400000" />
+      <workItem from="1629111620209" duration="481000" />
+      <workItem from="1629112146252" duration="5562000" />
+      <workItem from="1629131568890" duration="1203000" />
+      <workItem from="1629362079192" duration="1187000" />
+      <workItem from="1629389733722" duration="1407000" />
+      <workItem from="1629458415420" duration="595000" />
     </task>
+    <task id="LOCAL-00001" summary="fixBug: Brand model">
+      <created>1628667208426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628667208426</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixBug: Brand model">
+      <created>1628667271669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628667271669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixBug: Brand model" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixBug: Brand model" />
   </component>
 </project>

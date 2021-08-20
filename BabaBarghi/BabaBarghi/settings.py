@@ -49,7 +49,7 @@ INSTALLED_APPS = [
     # "django_extensions",
 
     "product",
-    "user",
+    # "user",
 ]
 
 MIDDLEWARE = [
@@ -63,6 +63,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'BabaBarghi.urls'
+MEDIA_ROOT = 'Project_Pictures'
 
 TEMPLATES = [
     {
