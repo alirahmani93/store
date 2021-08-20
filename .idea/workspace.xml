@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92f80bcc-3b32-4eed-9655-158c575ea86a" name="Changes" comment="in commit be dard nemikhore va baiad pak beshe2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabaBarghi/cart/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/BabaBarghi/cart/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/BabaBarghi/product/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BabaBarghi/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/BabaBarghi/product/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="92f80bcc-3b32-4eed-9655-158c575ea86a" name="Changes" comment="in commit be dard nemikhore va baiad pak beshe2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +73,7 @@
       <workItem from="1629131568890" duration="1203000" />
       <workItem from="1629362079192" duration="1187000" />
       <workItem from="1629389733722" duration="1407000" />
+      <workItem from="1629458415420" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="fixBug: Brand model">
       <created>1628667208426</created>
