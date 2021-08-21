@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Category, Price, Picture, Product, Brand
+from .models import Category, Price, Media, Product, Brand
 # Register your models here.
 
 @admin.register(Category)
@@ -11,8 +11,8 @@ class BrandAdmin(admin.ModelAdmin):
 class BrandAdmin(admin.ModelAdmin):
     pass
 
-@admin.register(Picture)
-class PictureAdmin(admin.ModelAdmin):
+@admin.register(Media)
+class MediaAdmin(admin.ModelAdmin):
     pass
 
 @admin.register(Product)
